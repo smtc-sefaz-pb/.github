@@ -15,4 +15,8 @@
   Organization for the development of projects carried out in partnership between NUTES/UEPB and Sefaz/PB
 </p>
 
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/89879255?s=200&v=4" alt="S.M.T.C">
+</p>
+
 <p> Partnership: <a href="http://nutes.uepb.edu.br/">NUTES-UEPB</a> | <a href="https://www.sefaz.pb.gov.br/">SEFAZ-PB</a></p>
