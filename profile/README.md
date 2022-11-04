@@ -12,8 +12,8 @@
   Organization for the development of projects carried out in partnership between NUTES/UEPB and Sefaz/PB
 </p>
 
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1g8xu2zt0tVIuqlMM2ehkujYhz6WI6Lza" alt="S.M.T.C system architecture">
-</p>
+<div align="center">
+  <img src="profile/architecture_overview.jpg" alt="S.M.T.C system architecture">
+</div>
 
 <p> Partnership: <a href="http://nutes.uepb.edu.br/">NUTES-UEPB</a> | <a href="https://www.sefaz.pb.gov.br/">SEFAZ-PB</a></p>
