@@ -5,10 +5,7 @@
   </a>
   <a href="https://github.com/smtc-sefaz-pb/.github/network/members">
     <img src="https://img.shields.io/github/forks/smtc-sefaz-pb/.github?style=social" alt="Forks"/>
-  </a> 
-  <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/visits/smtc-sefaz-pb/.github?style=social" alt="Visitors badge" />
-  </a>
+  </a>  
 </p>
 
 <p>
@@ -16,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/89879255?s=200&v=4" alt="S.M.T.C">
+  <img src="https://drive.google.com/uc?export=view&id=1g8xu2zt0tVIuqlMM2ehkujYhz6WI6Lza" alt="S.M.T.C system architecture">
 </p>
 
 <p> Partnership: <a href="http://nutes.uepb.edu.br/">NUTES-UEPB</a> | <a href="https://www.sefaz.pb.gov.br/">SEFAZ-PB</a></p>
