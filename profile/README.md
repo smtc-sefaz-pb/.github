@@ -13,7 +13,7 @@
 </p>
 
 <div align="center">
-  <img src="profile/architecture_overview.jpg" alt="S.M.T.C system architecture">
+  <img src="architecture_overview.jpg" alt="S.M.T.C system architecture">
 </div>
 
 <ul>
